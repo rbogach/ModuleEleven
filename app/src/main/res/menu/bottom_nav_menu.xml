@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-<item android:id="@+id/bottom_option_1"
-    android:title="@string/bottom_nav_title_1"
+<item android:id="@+id/playerFragment"
+    android:title="Player"
     android:icon="@drawable/ic_avatar"
 
     />
 
-    <item android:id="@+id/bottom_option_2"
-        android:title="@string/bottom_nav_title_2"
+    <item android:id="@+id/resultFragment"
+        android:title="Result"
         android:icon="@drawable/ic_option2"
 
         />

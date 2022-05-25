@@ -7,6 +7,13 @@
     <string name="drawer_home_title">Home</string>
     <string name="bottom_nav_title_1">Opcao 1 </string>
     <string name="bottom_nav_title_2">Opcao 2 </string>
+    <string-array name="jokenpo">
+        <item>Jo</item>
+        <item>Ken</item>
+        <item>Po</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>
